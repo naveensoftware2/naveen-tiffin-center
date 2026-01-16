@@ -1,5 +1,4 @@
-
- dosa
+dosa
 price lists
 plain dosa =40
 onion dosa=50
