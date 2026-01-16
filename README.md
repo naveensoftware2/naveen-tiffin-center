@@ -1,3 +1,13 @@
+# naveen-tiffin-center
+ main
+
+dosa
+price lists
+plain dosa =40
+onion dosa=50
+masala dosa=50
+rava dosa=4
+
 idli
 
 price list of varities of idli
@@ -22,7 +32,3 @@ poori with chutney and curry=60
 methi poori=60
 poori with chicken=100
 
-# naveen-tiffin-center
-main
- main
- main
