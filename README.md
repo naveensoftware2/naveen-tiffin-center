@@ -1,3 +1,11 @@
+idli
+
+price list of varities of idli
+idli with chutny=40
+idli with sambar=50
+raagi idli=50
+millet idli=60
+
  wada
 
 price list of varites of wada
@@ -16,4 +24,5 @@ poori with chicken=100
 
 # naveen-tiffin-center
 main
+ main
  main
